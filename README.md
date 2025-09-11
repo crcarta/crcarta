@@ -1,4 +1,7 @@
-## Hi there 👋
+##Hi, I'm Christiano
+
+I'm a software engineer with previous experience at Hubbell Incorporated and Grey-Box. Feel free to reach out to me at cxcarta [at] gmail [dot] com.
+
 
 <!--
 **crcarta/crcarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
