@@ -1,7 +1,7 @@
 <div style="font-size: 1.5em; font-family: 'Modern Latin', 'Times New Roman', serif;">
 Hi, I'm Christiano
 
-I'm a software engineer with previous experience at Hubbell Incorporated and Grey-Box. Feel free to reach out to me at cxcarta [at] gmail [dot] com.
+I'm a software engineer with previous experience at Hubbell Incorporated and Grey-Box.<br> Feel free to reach out to me at cxcarta [at] gmail [dot] com.
 </div>
 
 <!--
